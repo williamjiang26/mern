@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-      <button onClick={fetchInfo}>fetch info from api</button>
+      <button onClick={fetchInfo}>get result</button>
       <div>result: {result}</div>
     </div>
   );
